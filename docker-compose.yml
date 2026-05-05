@@ -29,7 +29,7 @@ services:
     environment:
       STORAGE_PATH: /streams/
       # If you have problems with the playlist, set the backend url manually here
-      #BACKEND_URL: http://localhost:5000
+      BACKEND_URL: http://localhost:5000
 
       # Admin mode configuration
       ADMIN_ENABLED: "true"

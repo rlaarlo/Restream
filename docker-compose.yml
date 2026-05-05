@@ -33,7 +33,7 @@ services:
 
       # Admin mode configuration
       ADMIN_ENABLED: "true"
-      ADMIN_PASSWORD: "Qwertyuiop23$"
+      ADMIN_PASSWORD: "Qwertyuiop23"
       CHANNEL_SELECTION_REQUIRES_ADMIN: "true"
     networks:
       - app-network
